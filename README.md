@@ -2,7 +2,7 @@
 
 The backend for **CampusPulse**, a campus community app built as a two-sprint Agile group project. This is the ASP.NET Core Web API — the companion .NET MAUI client lives in a separate repo.
 
-> Related repo: `CampusPulse` (MAUI client) — add your GitHub link here.
+> Related repo: `CampusPulse` (MAUI client) — https://github.com/Kyran4/CampusPulse
 
 ## Tech Stack
 
